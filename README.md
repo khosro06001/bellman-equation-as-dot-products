@@ -10,7 +10,6 @@ q = p⃗ · o⃗
 
 v = π⃗ · q⃗
 
-
 See: PDF
 
 ## What's novel
