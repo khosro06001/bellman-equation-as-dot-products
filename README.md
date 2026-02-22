@@ -1,8 +1,8 @@
-# Bellman Expectation Equation — Vector Form Cheat Sheet
+# Bellman Expectation Equation — Vector Form!
 
-A compact 2-page reference card expressing the Bellman Expectation 
-Equation as four vector dot products, with full variable definitions, 
-a TikZ MDP diagram, and a complete glossary. Source included in XeLaTeX.
+A 2-page reference card expressing the Bellman Expectation 
+Equation as vector dot products, with variable definitions, 
+Two TikZ MDP diagrams, and a complete glossary.
 
 ## What's novel
 
@@ -12,11 +12,12 @@ to compute with:
 
 - **Scalar/summation form** (Sutton & Barto style): precise but the 
   structure is buried in sigma notation
+  
 - **Matrix/operator form** (theoretical papers): elegant but abstract
 
-This cheat sheet takes a middle path: four explicit vector dot products 
-that expose the full computational skeleton of the equation in a form 
-immediately readable to anyone with basic linear algebra.
+This cheat sheet takes a middle path: 3 explicit vector dot products and 
+a vector summation equation that expose the full computational skeleton 
+of the equation in a form immediately readable to anyone with basic linear algebra.
 
 The four steps are:
 
@@ -28,7 +29,6 @@ The four steps are:
 ## Contents
 
 - `Bellman_Expectation_Equation.pdf` — the cheat sheet (2 pages)
-- `Bellman_Expectation_Equation.tex` — XeLaTeX source
 
 ## Who this is for
 
@@ -36,10 +36,16 @@ Students and practitioners who want to see the Bellman equation
 as a concrete linear algebra computation rather than an abstract 
 expectation over probability distributions.
 
+Professors, who empathsize with students struggling to learn these concepts.
+
+The Curious!
+
 ## Keywords
 reinforcement learning, Bellman equation, Bellman expectation equation,
-value function, Q-function, state-action value, policy, MDP, 
-Markov decision process, cheat sheet, reference card, linear algebra, 
-dot product, state value, action value, RL, dynamic programming, 
+value function, Q-function, state-action value function, state value function, policy, MDP, 
+Markov decision process, linear algebra, dot product, state value, action value, RL, dynamic programming, 
 temporal difference, reward, discount factor, transition probability
+
 -- Khosro Pourkavoos
+
+:)
