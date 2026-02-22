@@ -10,9 +10,8 @@ reformulation expresses the Bellman equation as four explicit
 dot products, making the computational structure immediately 
 visible to anyone familiar with linear algebra.
 
-## Files
+## File
 - `Bellman_Expectation_Equation.pdf` — the cheat sheet
-- `Bellman_Expectation_Equation.tex` — LaTeX source (XeLaTeX)
 
 ## Keywords
 reinforcement learning, Bellman equation, value function, 
