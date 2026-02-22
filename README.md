@@ -2,13 +2,13 @@
 
 I reformulated the Bellman Expectation Equation using vector dot products instead of the usual summation sigma summation notation.
 
-** g = γ⃗ · r⃗ **
+g = γ⃗ · r⃗ 
 
-** o⃗ = r⃗ + γv⃗' **
+o⃗ = r⃗ + γv⃗'
 
-** q = p⃗ · o⃗  **
+q = p⃗ · o⃗
 
-** v = π⃗ · q⃗ **
+v = π⃗ · q⃗
 
 
 See: PDF
