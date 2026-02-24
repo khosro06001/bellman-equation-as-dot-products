@@ -25,7 +25,10 @@ to compute with:
 
 This cheat sheet takes a middle path: 3 explicit vector dot products and 
 a vector summation equation that expose the full computational skeleton 
-of the equation in a form immediately readable to anyone with basic linear algebra.
+of the equation in a form immediately readable to anyone with basic linear algebra. In 2 FORMS:
+
+- Gibbs Notation (the traditional vector notation)
+- Einstein Notation
 
 The four steps are:
 
