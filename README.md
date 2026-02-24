@@ -57,6 +57,9 @@ value function, Q-function, state-action value function, state value function, p
 Markov decision process, linear algebra, dot product, state value, action value, RL, dynamic programming, 
 temporal difference, reward, discount factor, transition probability
 
--- Khosro Pourkavoos
+
+-- Khosro Pourkavoos 
+
+**(I love Claude, I love Gemini!)**
 
 :)
