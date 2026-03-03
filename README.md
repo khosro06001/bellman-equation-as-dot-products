@@ -62,6 +62,6 @@ temporal difference, reward, discount factor, transition probability
 
 Acknowledgements:
 
-First of all, I want to thank my great reinforcement-learning Professor, Professor Ausif Mahmood, for encouraging us graduate students to fully understand the derivation of the Bellman Equations. That as the motivation for my quest, that culminated in arriving at the above succinct formulation.
+First of all, I want to thank my great reinforcement-learning Professor, Professor Ausif Mahmood, for encouraging us graduate students to fully understand the derivation of the Bellman Equations. That was the motivation for this expedition, which culminated in arriving at the above succinct formulation.
 
 Secondly, I would like to give credit to Claude and Gemini. Both were my indispensible partners in this quest. This is clearly the dawn of a new era!
