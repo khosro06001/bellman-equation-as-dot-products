@@ -67,6 +67,8 @@ First of all, I want to thank my great reinforcement-learning Professor, Profess
 Secondly, I would like to give credit to Claude and Gemini. Both were my indispensible partners in this quest. This is clearly the dawn of a new era!
 
 Thirdly, you can download this wiki page:
-https://github.com/khosro06001/bellman-equation-as-dot-products
-and view it with any web browser.
+
+https://github.com/khosro06001/bellman-equation-as-dot-products/blob/main/Deepwiki-Pourkavoos-Dot-Product-Notation-for-Bellman.html
+
+and view it in your web browser.
 
