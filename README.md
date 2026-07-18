@@ -65,3 +65,8 @@ Acknowledgements:
 First of all, I want to thank my great reinforcement-learning Professor, Professor Ausif Mahmood, for encouraging us graduate students to fully understand the derivation of the Bellman Equations. That was the motivation for this expedition, which culminated in arriving at the above succinct formulation.
 
 Secondly, I would like to give credit to Claude and Gemini. Both were my indispensible partners in this quest. This is clearly the dawn of a new era!
+
+Thirdly, you can download this wiki page:
+https://github.com/khosro06001/bellman-equation-as-dot-products
+and view it with any web browser.
+
